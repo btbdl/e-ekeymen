@@ -1,0 +1,14 @@
+[
+  {"year": 2024, "district": "Merkez", "count": 1950, "change": 7.1},
+  {"year": 2024, "district": "Atabey", "count": 420, "change": 2.4},
+  {"year": 2024, "district": "Eğirdir", "count": 680, "change": -1.2},
+  {"year": 2024, "district": "Gelendost", "count": 310, "change": 5.1},
+  {"year": 2024, "district": "Gönen", "count": 280, "change": 0},
+  {"year": 2024, "district": "Keçiborlu", "count": 520, "change": 3.2},
+  {"year": 2024, "district": "Senirkent", "count": 190, "change": -2.1},
+  {"year": 2024, "district": "Sütçüler", "count": 340, "change": 1.8},
+  {"year": 2024, "district": "Şarkikaraağaç", "count": 410, "change": 4.5},
+  {"year": 2024, "district": "Uluborlu", "count": 260, "change": -0.8},
+  {"year": 2024, "district": "Yalvaç", "count": 590, "change": 2.1},
+  {"year": 2024, "district": "Yenişarbademli", "count": 150, "change": 1.3}
+]
